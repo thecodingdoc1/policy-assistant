@@ -1,0 +1,36 @@
+spring:
+  datasource:
+    url: ${POSTGRES_URL:jdbc:postgresql://localhost:5433/jtms}
+    username: ${POSTGRES_USER:jtms}
+    password: ${POSTGRES_PASSWORD:jtms_dev_password}
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+  ai:
+    ollama:
+      base-url: ${HOME_MACHINE_ENDPOINT:http://localhost:11434}
+      chat:
+        options:
+          model: qwen2.5-coder
+          # 0 = always pick the most likely token. Policy answers should be repeatable, and the
+          # eval set needs it: at Ollama's default the same question sometimes got a different answer.
+          temperature: ${OLLAMA_CHAT_TEMPERATURE:0.0}
+      embedding:
+              options:
+                model: nomic-embed-text
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          # Public half of the keypair created by scripts/dev-token.sh. Spring Boot builds the
+          # JwtDecoder from it (signature + exp/nbf checks). In a container, mount the key and set
+          # JWT_PUBLIC_KEY_LOCATION=file:/keys/public.pem.
+          public-key-location: ${JWT_PUBLIC_KEY_LOCATION:file:./dev-keys/public.pem}
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+
+jtms:
+  documents:
+    dir: ${JTMS_DOCUMENTS_DIR:./data/documents}

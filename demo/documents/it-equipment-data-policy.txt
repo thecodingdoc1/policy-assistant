@@ -1,0 +1,23 @@
+FICTIONAL SAMPLE DOCUMENT - written for a software demonstration. It is not the policy of any real organization.
+
+BLUEFIELD TRANSPORT SERVICES
+IT EQUIPMENT AND DATA HANDLING POLICY
+Policy number: IT-120. Version 1.
+
+SECTION 1. COMPANY EQUIPMENT
+Employees receive a company laptop, which is replaced every 3 years. The standard model is a Lenovo ThinkPad. Software engineers working on AI or backend infrastructure may request a high-performance desktop workstation with an NVIDIA GPU; these requests need director approval.
+
+SECTION 2. SECURING DEVICES
+All company laptops and workstations use full-disk encryption, which may not be turned off. Screens lock automatically after 10 minutes without activity. Passwords must be at least 14 characters long, and multi-factor authentication is required for all remote access.
+
+SECTION 3. REMOVABLE MEDIA
+Personal USB storage devices may not be connected to company equipment. Employees who need to move files physically must use an encrypted USB drive issued by IT.
+
+SECTION 4. LOST OR STOLEN DEVICES
+Report a lost or stolen company device to the IT Service Desk within 1 hour of noticing it is missing, even outside business hours. IT will lock and, if necessary, wipe the device remotely.
+
+SECTION 5. DATA CLASSIFICATION
+Company information is classified as Public, Internal, Confidential or Restricted. Restricted data, such as customer contracts and employee personal records, may not be stored on personal devices and may not be pasted into external AI services or other tools that IT has not approved.
+
+SECTION 6. LEAVING THE COMPANY
+Employees who leave must return all company equipment within 5 business days of their last day. IT disables accounts on the last day of employment.

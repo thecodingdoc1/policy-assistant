@@ -1,0 +1,1 @@
+ENTERPRISE HARDWARE POLICY: All developers are eligible for a laptop upgrade every 3 years. The standard issue laptop is a Lenovo ThinkPad. However, Senior Software Engineers working on AI or backend infrastructure are exclusively authorized to request high-performance desktop workstations equipped with NVIDIA GPUs.

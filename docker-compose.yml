@@ -1,0 +1,23 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: jtms-postgres
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-jtms}
+      POSTGRES_USER: ${POSTGRES_USER:-jtms}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-jtms_dev_password}
+    ports:
+      - "5433:5432"
+    volumes:
+      # Named volume so data survives `docker compose down` / restarts.
+      # Only `docker compose down -v` deletes it.
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U $${POSTGRES_USER} -d $${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
+volumes:
+  pgdata:

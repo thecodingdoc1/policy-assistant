@@ -1,0 +1,31 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IDE and Editor Files ###
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Local Environment / Secret Overrides ###
+*.log
+.env
+# Uploaded source documents
+data/
+docs/
+
+JTMS_PROJECT_CONTEXT.md
+# Local JWT signing keys (scripts/dev-token.sh). The private key can mint tokens for any user: never commit.
+dev-keys/
+
+# Personal notes (not part of the project)
+CLAUDE.local.md
+demo/DEMO.md

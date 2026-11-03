@@ -1,0 +1,26 @@
+FICTIONAL SAMPLE DOCUMENT - written for a software demonstration. It is not the policy of any real organization, and it is not guidance on hazardous materials regulations.
+
+BLUEFIELD TRANSPORT SERVICES
+HAZARDOUS MATERIALS SHIPPING POLICY
+Policy number: OPS-410. Version 1.
+
+SECTION 1. SCOPE
+This policy applies to every shipment that contains hazardous materials, in any of the nine hazard classes, sent or received by any Bluefield depot. It applies to road, rail, sea and air shipments.
+
+SECTION 2. TRAINING
+Only certified hazmat shippers may prepare, mark, label or sign for a hazardous materials shipment. Employees complete initial hazmat training before handling their first shipment and recurrent training every 24 months after that. The Safety Office keeps training records and suspends the certification of anyone whose training has lapsed.
+
+SECTION 3. CLASSIFICATION AND PACKAGING
+The shipper identifies the hazard class and packing group of every item from the manufacturer's safety data sheet. Hazardous materials are shipped only in UN-specification packaging that is approved for the material, closed as the packaging maker instructs, and marked and labeled for its hazard class.
+
+SECTION 4. LITHIUM BATTERIES
+Standalone lithium-ion cells and batteries shipped by air must be at a state of charge of 30 percent or less. Damaged or recalled lithium batteries must never be shipped by air.
+
+SECTION 5. SHIPPING PAPERS
+Every hazardous materials shipment travels with shipping papers that describe the material, its hazard class and quantity, and an emergency response telephone number that is answered 24 hours a day. Shipping papers are kept for 3 years.
+
+SECTION 6. INCIDENTS
+Any spill, leak, fire or damaged hazmat package must be reported to the Safety Office within 2 hours of discovery, followed by a written incident report within 24 hours. Do not move or re-pack a leaking package unless you are trained and it is safe to do so.
+
+SECTION 7. UNDECLARED SHIPMENTS
+Shipping hazardous materials without declaring them is a serious violation. A depot that sends an undeclared hazardous shipment loses its hazmat shipping privileges until the Safety Office completes a review.

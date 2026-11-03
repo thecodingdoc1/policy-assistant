@@ -1,0 +1,40 @@
+FICTIONAL SAMPLE DOCUMENT - written for a software demonstration. It is not the policy of any real organization.
+
+BLUEFIELD TRANSPORT SERVICES
+PROCUREMENT AND PURCHASE ORDER APPROVAL POLICY
+Policy number: FIN-201. Version 1.
+
+SECTION 1. PURPOSE AND SCOPE
+This policy sets the rules for buying goods and services on behalf of Bluefield Transport Services. It applies to every employee, contractor and temporary worker who requests, approves or receives a purchase, at every depot, warehouse and office. Purchases paid for with a company credit card are covered by the Corporate Card Policy instead, except where this policy says otherwise.
+
+SECTION 2. APPROVAL THRESHOLDS
+Every purchase must be approved before a purchase order is issued. The approval level depends on the total value of the purchase, including tax, freight and installation:
+- Up to $5,000: approval by the requester's department manager.
+- From $5,000.01 to $25,000: approval by the division director.
+- From $25,000.01 to $100,000: approval by the Vice President of Operations.
+- Over $100,000: approval by the Chief Financial Officer and the Procurement Review Board.
+An approver may not approve a purchase that they requested, or a purchase from a vendor in which they have a financial interest.
+
+SECTION 3. COMPETITIVE QUOTES
+Any purchase over $10,000 requires at least three written quotes from independent vendors. The requester attaches the quotes to the purchase requisition and records why the selected vendor was chosen. Price is not the only factor; delivery time, warranty and past performance may justify a higher quote.
+
+SECTION 4. SOLE-SOURCE PURCHASES
+When only one vendor can supply the item, the requester must submit a written sole-source justification explaining why no alternative exists. The Procurement Manager must approve the justification before the purchase order is issued.
+
+SECTION 5. PURCHASE ORDERS
+A purchase order must be issued before goods or services are ordered. Purchase orders created after the goods or services were received ("after-the-fact" purchases) are not allowed. The only exception is a genuine emergency that threatens safety or stops operations; in that case the requester must document the emergency and obtain the required approvals within 2 business days.
+
+SECTION 6. SPLITTING PURCHASES
+Splitting a purchase into smaller orders to stay below an approval threshold or the quote requirement is prohibited. Related orders placed with the same vendor within 30 days are treated as a single purchase.
+
+SECTION 7. NEW VENDORS
+A vendor must exist in the vendor master file before a purchase order can be issued to it. To add a vendor, Procurement needs a completed tax form, a certificate of insurance and bank details verified by a call-back to a known phone number. Vendor setup normally takes 5 business days.
+
+SECTION 8. RECEIVING AND THREE-WAY MATCH
+Goods must be recorded as received in the ERP system by the receiving location. Accounts Payable pays an invoice only when it matches the purchase order and the receiving record (a "three-way match"). An invoice may differ from the purchase order by at most 5 percent or $500, whichever is lower. Larger differences go back to the requester for a purchase order change, which needs the same approval level as the original order.
+
+SECTION 9. RECORDS
+Requisitions, quotes, justifications, purchase orders, receiving records and invoices are kept for 7 years after final payment.
+
+SECTION 10. VIOLATIONS
+Purchases made in violation of this policy may be reported to Internal Audit. Repeated violations can lead to loss of purchasing authority and disciplinary action.
